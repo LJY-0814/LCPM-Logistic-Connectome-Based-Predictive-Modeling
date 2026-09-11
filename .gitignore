@@ -1,0 +1,11 @@
+# MATLAB autosaves
+*.asv
+*.m~
+*.mex*
+
+# Output of the pipeline
+output/
+
+# OS files
+Thumbs.db
+.DS_Store
