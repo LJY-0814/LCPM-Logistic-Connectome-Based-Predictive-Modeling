@@ -99,3 +99,7 @@ covariate matrix, and per-ROI region/network labels.
 | `lcpm_results.mat` | all result structs for downstream use |
 
 ## Citation
+
+Shen, X., Finn, E. S., Scheinost, D., Rosenberg, M. D., Chun, M. M., Papademetris, X., & Constable, R. T. (2017). 
+Using connectome-based predictive modeling to predict individual behavior from brain connectivity. 
+*Nature Protocols*, *12*(3), 506–518. https://doi.org/10.1038/nprot.2016.178
