@@ -1,9 +1,9 @@
-# LCPM: Weighted Logistic Connectome-Based Predictive Modeling
+# LCPM: Logistic Connectome-Based Predictive Modeling
 
 MATLAB code for predicting suicide risk in major depressive disorder (MDD)
-from resting-state functional connectivity using weighted logistic
-connectome-based predictive modeling (LCPM), together with permutation
-testing, consensus-pattern characterization, and virtual lesion analysis.
+from resting-state functional connectivity using logistic connectome-based 
+predictive modeling (LCPM), together with permutation test, 
+consensus-pattern characterization, and virtual lesion analysis.
 
 ## Overview
 

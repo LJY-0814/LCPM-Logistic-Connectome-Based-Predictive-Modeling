@@ -4,11 +4,6 @@ function cfg = config()
 %   main.m and the functions under func/. The thresholds are kept as
 %   separate fields so the pipeline generalizes beyond the settings used
 %   in the manuscript; change them here instead of editing the code.
-%
-% The default values reproduce the analyses reported in the manuscript:
-% feature-selection p threshold 0.15, classification probability cutoff
-% 0.40, high-frequency edge cutoff 90%, 10-fold cross-validation repeated
-% 1,000 times.
 
 %% File paths
 % Paths are resolved relative to the project root (the folder containing

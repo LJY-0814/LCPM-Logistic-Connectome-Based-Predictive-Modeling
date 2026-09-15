@@ -125,7 +125,7 @@ aucs = r.auc_per_iter;
 end
 
 function h = benjamini_hochberg(pvals, q)
-% Benjamini-Hochberg FDR correction; h(i) is true if pvals(i) survives.
+% Benjamini-Hochberg FDR correction.
 h      = false(size(pvals));
 ok     = ~isnan(pvals);
 p      = pvals(ok);
